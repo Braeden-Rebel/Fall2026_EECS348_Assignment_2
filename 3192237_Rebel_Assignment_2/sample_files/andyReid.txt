@@ -1,0 +1,9 @@
+EMAIL OtherPerson,You have a terminal illness,12-05-2001
+COUNT
+NEXT
+EMAIL Boss,Andy Reid is stopping by,12-05-2005
+READ
+COUNT
+NEXT
+READ
+COUNT
