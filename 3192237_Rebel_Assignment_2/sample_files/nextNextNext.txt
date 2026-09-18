@@ -1,8 +1,0 @@
-EMAIL Boss,Please don't spam next,12-05-2001
-EMAIL Peer,Don't do it!,05-04-2002
-COUNT
-NEXT
-NEXT
-NEXT
-NEXT
-COUNT

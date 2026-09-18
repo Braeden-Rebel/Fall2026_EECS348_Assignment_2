@@ -1,8 +1,0 @@
-EMAIL Boss,Please don't spam read,12-05-2001
-EMAIL Peer,Don't do it!,05-04-2002
-COUNT
-READ
-READ
-READ
-READ
-COUNT
